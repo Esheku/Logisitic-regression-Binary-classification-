@@ -18,4 +18,4 @@ From the model in `Insurance Data Logistic Regression.ipynb` it shows that the o
 
 ### Contribution
 
-If you have any suggestions, improvements, or additional insights, feel free to contribute to this repository. Create a pull request or open an issue, and let's work together to enhance our understanding Binary Classification.
+If you have any suggestions, improvements, or additional insights, feel free to contribute to this repository. Create a pull request or open an issue, and let's work together to enhance our understanding of Binary Classification.
